@@ -1,4 +1,4 @@
-# lingua-bridge-server-genjutsu
+# lingua-bridge
 
 > Originally built as the translation backend for **[Genjutsu](https://github.com/iamovi/genjutsu)** — for text posts translation. Now open source under the **MIT License**. Use it freely in your own projects.
 
