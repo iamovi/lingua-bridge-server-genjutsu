@@ -106,13 +106,6 @@ Server starts on `http://localhost:3000` by default. Override with the `PORT` en
 | `FRONTEND_ORIGIN` | Allowed CORS origin for your frontend | `http://192.168.0.1:8080` |
 | `PORT` | Port to listen on (optional) | `3000` |
 
-> **Note:** The current `src/index.ts` passes the string `"process.env.FRONTEND_ORIGIN"` literally to the CORS config instead of the evaluated value. Fix this before deploying:
-> ```ts
-> // Change this:
-> origin: "process.env.FRONTEND_ORIGIN",
-> // To this:
-> origin: process.env.FRONTEND_ORIGIN,
-> ```
 
 ### Scripts
 
