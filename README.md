@@ -278,11 +278,6 @@ Common examples:
 
 For the full list, see [Google's supported languages](https://cloud.google.com/translate/docs/languages).
 
----
-
-## Authors
-
-This API was created by **[Tahsin](https://github.com/tahsinzidane)**, later transferred to **[Ovi](https://github.com/iamovi)**'s GitHub. Maintained by both.
 
 ---
 
